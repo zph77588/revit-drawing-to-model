@@ -1,0 +1,4 @@
+interface:
+  display_name: "Revit 图纸建模与交付"
+  short_description: "依据结构图按目标 Revit 版本建模、出图、统计混凝土并核验成果"
+  default_prompt: "使用 $revit-drawing-to-model，按我提供的结构图先识别目标 Revit 版本，再完成建模、出图和成果核验。"
